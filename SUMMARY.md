@@ -20,7 +20,8 @@
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
-## Example
+## Examples
 
-* [🎨 Decentrelised Git](example/decentrelised-git.md)
-* [🖥 Personal Storage Service](example/personal-storage-service.md)
+* [🎨 Decentrelised Git](examples/decentrelised-git.md)
+* [📁 Personal Network File System](examples/personal-network-file-system.md)
+* [🧘 Sovereign Data Storage](examples/sovereign-data-storage.md)
