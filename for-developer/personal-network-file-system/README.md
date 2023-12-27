@@ -1,4 +1,4 @@
-# 🛠 Getting set up
+# 📂 Personal Network File System
 
 <details>
 

@@ -7,21 +7,30 @@
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features.md)
 
-## Architecture
+## Technology
 
-* [💻 Intro](architecture/intro.md)
-* [🔐 Decentrelised Identity](architecture/decentrelised-identity.md)
-* [💾 Storage](architecture/storage.md)
-* [⛓ Blockchain](architecture/blockchain.md)
+* [🔐 Key Management](technology/key-management.md)
+* [⛓ Minimal Blockchain](technology/minimal-blockchain.md)
+* [💾 Distributed Storage](technology/distributed-storage.md)
 
-## Fundamentals
+## Product(To C)
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [📂 Personal Network File System](product-to-c/personal-network-file-system/README.md)
+  * [📝 Setting permissions](product-to-c/personal-network-file-system/setting-permissions.md)
+  * [🧑 Inviting Members](product-to-c/personal-network-file-system/inviting-members.md)
+* [🧘 Decentralized Identity](product-to-c/decentralized-identity/README.md)
+  * [🧑 Inviting Members](product-to-c/decentralized-identity/inviting-members.md)
+
+## For Developer
+
+* [💾 Decentralized Storage For Developer](for-developer/decentralized-storage-for-developer.md)
+* [📂 Personal Network File System](for-developer/personal-network-file-system/README.md)
+  * [📝 Setting permissions](for-developer/personal-network-file-system/setting-permissions.md)
+  * [🧑 Inviting Members](for-developer/personal-network-file-system/inviting-members.md)
+* [🧘 Decentralized Identity](for-developer/decentralized-identity/README.md)
+  * [🧑 Inviting Members](for-developer/decentralized-identity/inviting-members.md)
 
 ## Examples
 
 * [🎨 Decentrelised Git](examples/decentrelised-git.md)
-* [📁 Personal Network File System](examples/personal-network-file-system.md)
 * [🧘 Sovereign Data Storage](examples/sovereign-data-storage.md)
