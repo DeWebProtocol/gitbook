@@ -14,18 +14,13 @@
 * [💾 Storage](architecture/storage.md)
 * [⛓ Blockchain](architecture/blockchain.md)
 
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
 ## Fundamentals
 
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
-## Use Cases
+## Example
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🎨 Decentrelised Git](example/decentrelised-git.md)
+* [🖥 Personal Storage Service](example/personal-storage-service.md)
