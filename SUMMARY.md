@@ -30,7 +30,7 @@
 * [🧘 Decentralized Identity](for-developer/decentralized-identity/README.md)
   * [🧑 Inviting Members](for-developer/decentralized-identity/inviting-members.md)
 
-## Future Work's
+## Future Works
 
 * [🎨 Decentrelised Git](future-works/decentrelised-git.md)
 * [🧘 Sovereign Data Storage](future-works/sovereign-data-storage.md)
