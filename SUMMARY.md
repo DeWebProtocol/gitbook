@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to MuJi Tech](README.md)
+* [👋 Welcome to FuYou Tech](README.md)
 
 ## Overview
 
