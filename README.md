@@ -1,4 +1,4 @@
-# 👋 Welcome to MuJi Tech
+# 👋 Welcome to FuYou Tech
 
 ## Overview
 
